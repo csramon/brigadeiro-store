@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brigadeiro-store/static/css/main.3be448f3.css",
+    "main.js": "/brigadeiro-store/static/js/main.1c9fccb6.js",
+    "index.html": "/brigadeiro-store/index.html",
+    "main.3be448f3.css.map": "/brigadeiro-store/static/css/main.3be448f3.css.map",
+    "main.1c9fccb6.js.map": "/brigadeiro-store/static/js/main.1c9fccb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be448f3.css",
+    "static/js/main.1c9fccb6.js"
+  ]
+}

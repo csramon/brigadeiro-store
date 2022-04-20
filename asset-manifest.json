@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/brigadeiro-store/static/css/main.3be448f3.css",
-    "main.js": "/brigadeiro-store/static/js/main.1c9fccb6.js",
+    "main.js": "/brigadeiro-store/static/js/main.fc7268fb.js",
+    "static/media/brigadeiroImg.png": "/brigadeiro-store/static/media/brigadeiroImg.b65ee61f2bff219162d6.png",
     "index.html": "/brigadeiro-store/index.html",
     "main.3be448f3.css.map": "/brigadeiro-store/static/css/main.3be448f3.css.map",
-    "main.1c9fccb6.js.map": "/brigadeiro-store/static/js/main.1c9fccb6.js.map"
+    "main.fc7268fb.js.map": "/brigadeiro-store/static/js/main.fc7268fb.js.map"
   },
   "entrypoints": [
     "static/css/main.3be448f3.css",
-    "static/js/main.1c9fccb6.js"
+    "static/js/main.fc7268fb.js"
   ]
 }
